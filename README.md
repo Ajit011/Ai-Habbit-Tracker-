@@ -31,6 +31,6 @@
 
 ---
 
-## ⚙️ Core Architecture — Yeh Kaise Kaam Karta Hai?
+## ⚙️ Core Architecture — How Does It Work?
 
-System ek tightly-coupled data pipeline par run karta hai jo aapki consistency ko automatically map karta hai:
+The system runs on a tightly-coupled data pipeline that automatically maps and maintains your consistency.
