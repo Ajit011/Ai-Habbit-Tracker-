@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+/* Tailwind CSS v4 Custom Utilities Mapping */
+@theme {
+  --utility-aurora-bg: radial-gradient(circle at 20% 30%, rgba(245, 158, 11, 0.15) 0%, transparent 40%),
+                        radial-gradient(circle at 80% 70%, rgba(251, 191, 36, 0.1) 0%, transparent 40%),
+                        #0f172a;
+  
+  --utility-glass-card: rgba(255, 255, 255, 0.03);
+}
+
+/* Fallback supporting classes for raw filters */
+.aurora-bg {
+  background: var(--utility-aurora-bg);
+}
+
+.glass-card {
+  background: var(--utility-glass-card);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
