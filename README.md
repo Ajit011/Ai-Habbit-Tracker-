@@ -51,7 +51,7 @@ The system runs on a tightly-coupled data pipeline that automatically maps and m
 
 ---
 
-## 🎯 Strategic Outcomes & Key Benefits
+##  Strategic Outcomes & Key Benefits
 
 * **Brutally Honest AI Coaching:** Koi boring static tracking nahi. Gemini AI directly data parameters analyze karta hai, user ko name se address karta hai, aur workflow drops par warning deta hai.
 * **Dual-Axis Visual Analytics:** Recharts integrated `Focus Distribution Donut` aur `Weekly Execution Bars` real-time data parse karte hain taaki data asymmetry turant catch ho sake.
